@@ -1,5 +1,3 @@
-# Sideline Sprint (Misc.)
-
 ![Sideline Sprint logo](/img/text-logo-large.png)
 
 ![Sideline Sprint newsletter](/img/newsletter.png)
