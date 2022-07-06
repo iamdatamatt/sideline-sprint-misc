@@ -2,6 +2,8 @@
 
 ![Sideline Sprint newsletter](/img/newsletter.png)
 
+# Sideline Sprint Miscellaneous Work
+
 This repo contains miscellaneous code related to the Sideline Sprint project I worked on.
 
 This primarily involves two things:
