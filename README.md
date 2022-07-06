@@ -15,3 +15,7 @@ to referral rewards. There were also email templates used for special events lik
 Olympics coverage and inviting users to our Discord server. These templates were
 written using MJML, then exported to HTML and/or text files depending on the use
 case.
+
+We used a variety of email providers during this project, including MailerLite,
+Campaign Monitor, and Beehiiv. Certain variables and naming conventions (e.g. cm-...)
+are linked to the specific provider we were using at a given time.
