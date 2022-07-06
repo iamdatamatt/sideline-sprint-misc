@@ -1,6 +1,8 @@
 # Sideline Sprint (Misc.)
 
-![Sideline Sprint](/img/newsletter.png)
+![Sideline Sprint logo](/img/text-logo-large.png)
+
+![Sideline Sprint newsletter](/img/newsletter.png)
 
 This repo contains miscellaneous code related to the Sideline Sprint project I worked on.
 
