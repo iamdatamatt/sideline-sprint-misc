@@ -23,3 +23,7 @@ case.
 We used a variety of email providers during this project, including MailerLite,
 Campaign Monitor, and Beehiiv. Certain variables and naming conventions (e.g. cm-...)
 are linked to the specific provider we were using at a given time.
+
+If you're interested in seeing the other work I did for Sideline Sprint, please take a look at the following repos:
+- [Sideline Sprint Main Website](https://github.com/mrtrombley/sideline-sprint-website)
+- [Sideline Sprint Tools Website](https://github.com/mrtrombley/sideline-sprint-tools)
