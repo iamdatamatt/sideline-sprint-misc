@@ -39,7 +39,7 @@
         <mj-text>Hey there,</mj-text>
         <mj-text>Congratulations on hitting 25 referrals, hopefully it wasn’t too hard!</mj-text>
         <mj-text>With this milestone we’re happy to take a look at your resume and give you some feedback. Having been through the recruiting process, we know how important it is to have a strong resume. As always, thanks for being a part of the team!</mj-text>
-        <mj-text>Fill out this form and we'll take it from there: <a href="https://forms.gle/vQXf77SffLvYd6d6A">Resume Review Form</a></mj-text>
+        <mj-text>Fill out this form and we'll take it from there: <a href="-">Resume Review Form</a></mj-text>
         <mj-text>Only 25 more referrals and you'll earn a mock interview with the Sprint team!</mj-text>
         <mj-text>You can check your ambassador-specific rewards at any time by <a href="https://www.sidelinesprint.com/college-ambassador?token=[check_referral_id,fallback=]">clicking here</a>. You can also check your main referral rewards <a href="https://www.sidelinesprint.com/my-referrals?token=[check_referral_id,fallback=]">here</a>. As always, feel free to reach out with any questions, improvement suggestions, or fun sports facts.</mj-text>
         <mj-text>Best,</mj-text>
